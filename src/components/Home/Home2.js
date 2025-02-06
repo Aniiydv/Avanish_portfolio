@@ -111,7 +111,7 @@ function Home2() {
                     <span className="highlight">I fell for coding,</span> and it's been a magical journey since. 🌟
                   </p>
                   <p>
-                    Fluent in <span className="purple">Java</span> and <span className="purple">JavaScript</span>,<br /> I craft code symphonies that dance across screens. 💻
+                    Fluent in <span className="purple">ASP.NET</span> and <span className="purple">JavaScript</span>,<br /> I craft code symphonies that dance across screens. 💻
                   </p>
                   <p>
                     Passionate about <span className="purple">Web Technologies</span> and <span className="purple">Full Stack</span> exploration. 🔗

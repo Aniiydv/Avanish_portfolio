@@ -63,7 +63,7 @@ function Projects() {
               isBlog={false}
               title="Eze-Agro"
               description="Open-source smart farming solution utilizes IoT for real-time field monitoring, locust detection, laser fencing, automatic irrigation, and soil analysis. Join the revolution!"
-              ghLink="https://github.com/dmethi9871/EZE-AGRO-React"
+              ghLink="https://github.com/Aniiydv/EZE-AGRO-React"
               demoLink="https://ezeagro.vercel.app/"
             />
           </Col>
@@ -73,7 +73,7 @@ function Projects() {
               isBlog={false}
               title="Smart Helmet"
               description="An innovative Smart Helmet designed specifically for sewage workers. This helmet enhances safety with features like real-time communication, hazard detection, and emergency alerts, developed using HTML, CSS, and JavaScript. Finalist in Smart India Hackathon 2023."
-              ghLink="https://github.com/dmethi9871/Smart-helmet"
+              ghLink="https://github.com/Aniiydv/Smart-helmet"
               demoLink="https://smart-helmet.vercel.app/"
             />
             <ReactTooltip id="demo-tooltip2" place="top" effect="solid">
@@ -87,7 +87,7 @@ function Projects() {
               isBlog={false}
               title="Eze_Medi"
               description="EZE-Medi is a full-featured health monitoring kit designed to provide comprehensive health data for users. The kit includes sensors for temperature, ECG, and heart rate. Utilizing a user-friendly website, secure data transmission to a cloud server enables easy tracking and analysis of health metrics. This solution is ideal for remote patient monitoring and managing chronic illnesses."
-              ghLink="https://github.com/dmethi9871/EZEMEDI"
+              ghLink="https://github.com/Aniiydv/EZEMEDI"
 
             />
           </Col>
@@ -98,7 +98,7 @@ function Projects() {
               isBlog={false}
               title="Signodes"
               description="Signodes (IoT Club) fosters IoT skills among students, enabling peer learning and project development. Explore our website for more!"
-              ghLink="https://github.com/dmethi9871/Signodes_Website_Final"
+              ghLink="https://github.com/Aniiydv/Signodes_Website_Final"
               demoLink="https://signodes-club.netlify.app/"
               imgWidth="300px" // Set a specific width for the image
               imgHeight="200px"
@@ -113,7 +113,7 @@ function Projects() {
               isBlog={false}
               title="Spotify_Clone"
               description="Your personalized music streaming platform! Enjoy seamless access to millions of songs, curated playlists, and personalized recommendations. Discover new music, create your own playlists, and experience music like never before. Join the Splotify community "
-              ghLink="https://github.com/dmethi9871/Spotify-Clone"
+              ghLink="https://github.com/Aniiydv/Spotify-Clone"
               demoLink="https://spotify-clone-three-weld.vercel.app/"
             />
           </Col>
