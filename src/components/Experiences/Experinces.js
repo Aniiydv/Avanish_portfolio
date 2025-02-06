@@ -24,16 +24,16 @@ function Experinces() {
             
             <Col md={4} className='project-heading' style={{ marginBottom: "20px" }}>
               <ExperinceCard
-                description={"Since March 2024, I've worked at 4C Plus as an Android Developer, helping to develop creative software solutions for news and media applications. Through my work, I've contributed to the company's efficiency and productivity by leveraging cutting-edge technology and implementing robust software solutions. Working together with cross-functional teams, I've assisted the development of dynamic and user-friendly applications, with the goal of streamlining procedures and providing an amazing user experience. My efforts have resulted in a significant increase in efficiency, with production up 130%. I am still devoted to fostering continuous improvement and innovation at 4C Plus, pushing the boundaries and achieving excellence in software development."}
+                description={"Since December 2022, I've worked at 4C Plus as an .Net Developer, helping to develop creative software solutions for news and media applications. Through my work, I've contributed to the company's efficiency and productivity by leveraging cutting-edge technology and implementing robust software solutions. Working together with cross-functional teams, I've assisted the development of dynamic and user-friendly applications, with the goal of streamlining procedures and providing an amazing user experience. My efforts have resulted in a significant increase in efficiency, with production up 130%. I am still devoted to fostering continuous improvement and innovation at 4C Plus, pushing the boundaries and achieving excellence in software development."}
 
                 ImgPath={_4Cplus}
                 isBlog={false}
                 title={`4CPlus`}
-                time={"Mar 2023 - Present"}
-                role={"Android Dev"}
+                time={"December 2022 - February 2025"}
+                role={".Net Developer"}
                 companyLocation={"Ghazibad"}
                 workMode={"Full-time"}
-                technologyUsed={"Java, XML, SQLite"}
+                technologyUsed={"C#, ASP.NET, SQL, Oracle, HTML, CSS, JavaScript, and Bootstrap"}
                 milestones={"Optimized, Improved, Enhanced by 40%"}
               />
             </Col>

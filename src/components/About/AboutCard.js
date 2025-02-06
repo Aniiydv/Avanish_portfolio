@@ -8,20 +8,20 @@ function AboutCard() {
     <Card.Body>
       <blockquote className="blockquote mb-0">
         <p style={{ textAlign: "justify" }}>
-          Hi Everyone, I am <span className="purple">Avanish Yadav</span> from <span className="purple">Noida, India.</span>
+          Hi Everyone, I am <span className="purple">Avanish Yadav</span> from <span className="purple">Azamgarh, India.</span>
           <br />
-          Currently pursuing Bachelor of Technology in Computer Science and Engineering at NIET, Greater Noida.
+          Experienced .NET Developer with a strong background in ERP solutions and full-stack web development. Proficient in <span className="purple" >C#, Python, SQL, HTML, CSS, JavaScript, and Bootstrap </span>.
+          <br />
+           Skilled in designing and implementing scalable, secure, and performance-optimized applications. Passionate about collaborating with cross-functional teams to deliver high-quality software solutions.
           <br />
           <br />
           Apart from coding, I enjoy indulging in various activities:
         </p>
         <ul>
           <li className="about-activity">
-            <ImPointRight /> Playing Games
+            <ImPointRight /> Music
           </li>
-          <li className="about-activity">
-            <ImPointRight /> Trading
-          </li>
+         
           <li className="about-activity">
             <ImPointRight /> Travelling
           </li>

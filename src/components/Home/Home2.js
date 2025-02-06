@@ -134,7 +134,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/dmethi9871"
+                  href="https://github.com/Aniiydv"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -144,7 +144,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/infinity_deepu"
+                  href="https://twitter.com/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -154,7 +154,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/deepanshu011/"
+                  href="https://www.linkedin.com/in/aviii19/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -164,7 +164,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/1.1_infinity/"
+                  href="https://www.instagram.com/bytzbinary/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
