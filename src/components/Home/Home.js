@@ -48,9 +48,9 @@ function Home() {
       
       
       <About/>
-      <Projects/>
+      {/* <Projects/> */}
       <Experinces/>
-      <Certificate/>
+      {/* <Certificate/> */}
       <Home2 />
 
     </section>
